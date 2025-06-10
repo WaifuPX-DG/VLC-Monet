@@ -1,5 +1,5 @@
 ## VLC Monet
-![alt text](https://raw.githubusercontent.com/WaifuPX-DG/VLC-Monet/main/App/Resources/vlc_latest.png)
+![alt text](https://raw.githubusercontent.com/WaifuPX-DG/VLC-Monet/App/Resources/vlc_latest.png)
 
 > VLC Player mod with adaptive colors and improvements to some interface elements 
 ----
